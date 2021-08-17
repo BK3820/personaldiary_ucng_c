@@ -1071,6 +1071,7 @@ void deleterecord( )
         return ;
 
     }
+    
 
     while ( another == 'Y' )
 
